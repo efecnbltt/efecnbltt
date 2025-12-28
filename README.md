@@ -1,60 +1,93 @@
 <div align="center">
-  <h1>👨‍💻 Efe Canbolat</h1>
-  <h3>Computer Engineering Student | Mobile & System Developer</h3>
-  
-  <p>
-    Building secure, local-first systems and engaging mobile experiences.<br>
-    Bridging the gap between <b>High-Level UI (React Native)</b> and <b>Low-Level Security (Go/System Programming)</b>.
-  </p>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=2563EB&center=true&vCenter=true&width=435&lines=Computer+Engineering+Student;Systems+%26+Security+Developer;React+Native+Mobile+Architect;Building+VaultZero+Local-First" alt="Typing SVG" />
+</div>
 
+<div align="center">
   
   <a href="mailto:efe@cnblt.studio">
-    <img src="https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="25" />
   </a>
 </div>
 
 <br />
 
-### 🛠️ Tech Stack & Tools
-
 <div align="center">
-
-| **Core** | **Mobile & Frontend** | **Backend & Systems** | **Security & Tools** |
-| :---: | :---: | :---: | :---: |
-| ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white) | ![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat&logo=react&logoColor=61DAFB) | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white) | ![Kali](https://img.shields.io/badge/Kali_Linux-557C94?style=flat&logo=kali-linux&logoColor=white) |
-| ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) | ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white) | ![Supabase](https://img.shields.io/badge/Supabase-181818?style=flat&logo=supabase&logoColor=3ECF8E) | ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) |
-| ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white) | ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white) | ![Wails](https://img.shields.io/badge/Wails-Framework-red?style=flat&logo=go&logoColor=white) | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white) |
-
+  I bridge the gap between <b>High-Level Mobile UI</b> and <b>Low-Level System Security</b>.<br/>
+  Currently focused on <b>Cryptography</b>, <b>Distributed Systems</b>, and <b>Native Mobile Development</b>.
 </div>
 
 <br />
 
-### 🚀 Featured Projects
-
-| Project | Description | Tech Stack | Status |
-| :--- | :--- | :--- | :---: |
-| 🔒 **VaultZero** | **Local-First Password Manager.** Uses AES-256-GCM encryption, Argon2, and Windows Named Pipes for secure IPC. Includes a custom Chrome Extension with Native Messaging. | `Go` `React` `Wails` `Native Messaging` | ✅ Completed |
-| 🛍️ **Price Track** | **Graduation Project.** A mobile app to track supermarket prices with a community-driven verification system. | `React Native` `Supabase` `PostgreSQL` | 🚧 In Progress |
-| 🎮 **HexaMerge** | A polished mobile puzzle game published on the App Store under **CNBLT Studio**. | `React Native` `Mobile Game` | 📲 Published |
-| 🔐 **Penetration Lab** | Personal cybersecurity playground. Scripts and tools for network scanning and vulnerability assessment. | `Python` `Kali Linux` `Bash` | 🛡️ Research |
+<table width="100%" style="border: 0;">
+  <tr>
+    <td width="60%" valign="top">
+      <h3 align="left">🔒 Featured Masterpiece: VaultZero</h3>
+      <p>A <b>Local-First, Zero-Knowledge Password Manager</b> engineered for paranoid security.</p>
+      <ul>
+        <li><b>Core:</b> Go (Wails) Backend + React Frontend.</li>
+        <li><b>Security:</b> AES-256-GCM Encryption with Argon2 Key Derivation.</li>
+        <li><b>Architecture:</b> Custom Chrome Extension using <b>Native Messaging</b> over Windows Named Pipes (No open ports!).</li>
+        <li><b>Philosophy:</b> "If it's not local, it's not yours."</li>
+      </ul>
+      <a href="https://github.com/SENİN_GITHUB_KULLANICI_ADIN/VAULTZERO_REPO_ADIN">
+        <img src="https://img.shields.io/badge/View_Source_Code-181717?style=for-the-badge&logo=github&logoColor=white" />
+      </a>
+    </td>
+    <td width="40%" align="center">
+      <img src="https://cdn-icons-png.flaticon.com/512/2463/2463518.png" width="120" alt="VaultZero Icon" />
+    </td>
+  </tr>
+</table>
 
 <br />
 
-### 📊 GitHub Stats
-
+<h3>🛠️ Tech Arsenal</h3>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=F0F6FC&text_color=8B949E" height="150" alt="stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=8B949E" height="150" alt="languages" />
+  <p>
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=go,react,ts,python,c,cpp,postgres,supabase,docker,git,linux,kali,vscode,vim&perline=7&theme=dark" alt="My Skills" />
+    </a>
+  </p>
 </div>
 
 <br />
 
-### 🎯 Current Focus
-* Deepening knowledge in **System Architecture** and **Secure Coding**.
-* Developing **Price Track** for graduation.
-* Exploring **Machine Learning** applications in mobile environments.
-
----
+<h3>📊 The Data</h3>
 <div align="center">
-  <sub>Designed by Efe Canbolat | 2025</sub>
+  <img src="https://github-readme-stats.vercel.app/api?username=SENİN_GITHUB_KULLANICI_ADIN&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000" height="180" alt="stats" />
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SENİN_GITHUB_KULLANICI_ADIN&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000" height="180" alt="languages" />
+</div>
+
+<br />
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SENİN_GITHUB_KULLANICI_ADIN&theme=tokyonight&hide_border=true&background=00000000" alt="streak stats" />
+</div>
+
+<br />
+
+<table width="100%">
+  <tr>
+    <td width="50%">
+      <h3>🌱 Currently Exploring</h3>
+      <ul>
+        <li>Advanced <b>Memory Management</b> in Go.</li>
+        <li><b>Penetration Testing</b> methodologies on Kali.</li>
+        <li>Optimizing React Native performance for <b>Gaming</b>.</li>
+      </ul>
+    </td>
+    <td width="50%">
+      <h3>🚀 Other Projects</h3>
+      <ul>
+        <li><b>Price Track:</b> Graduation Project (Mobile/Community).</li>
+        <li><b>HexaMerge:</b> Mobile Puzzle Game (CNBLT Studio).</li>
+        <li><b>InkAI:</b> AI-Powered Tattoo Design (Concept).</li>
+      </ul>
+    </td>
+  </tr>
+</table>
+
+<hr />
+<div align="center">
+  <sub>© 2025 Efe Canbolat. Engineered with precision.</sub>
 </div>
