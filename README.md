@@ -29,7 +29,7 @@
         <li><b>Architecture:</b> Custom Chrome Extension using <b>Native Messaging</b> over Windows Named Pipes (No open ports!).</li>
         <li><b>Philosophy:</b> "If it's not local, it's not yours."</li>
       </ul>
-      <a href="https://github.com/SENİN_GITHUB_KULLANICI_ADIN/VAULTZERO_REPO_ADIN">
+      <a href="https://github.com/">
         <img src="https://img.shields.io/badge/View_Source_Code-181717?style=for-the-badge&logo=github&logoColor=white" />
       </a>
     </td>
